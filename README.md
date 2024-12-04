@@ -1,5 +1,4 @@
-### - Opa!
-┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+### - Opa! :)
 
 ⭒ I'm 16 years old
 
@@ -8,4 +7,3 @@
 <img src="https://www.johndaniel.com/wp-content/uploads/2017/04/jquery-icon-e1491336969238.png" width="20" height="20"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="20" height="20"/> <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width="18" height="20"/>
 
-┗━━━━━━━━━━━━━━━━━━━━━━━━┛
